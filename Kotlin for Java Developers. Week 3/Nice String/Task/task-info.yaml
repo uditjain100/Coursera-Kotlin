@@ -1,0 +1,15 @@
+type: edu
+files:
+- name: src/nicestring/NiceString.kt
+  visible: true
+  placeholders:
+  - offset: 55
+    length: 6
+    placeholder_text: TODO()
+- name: test/nicestring/TestNiceString.kt
+  visible: true
+- name: partId
+  visible: false
+- name: assignmentKey
+  visible: false
+feedback_link: https://www.coursera.org/learn/kotlin-for-java-developers/programming/hlugM/nice-string/discussions

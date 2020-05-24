@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Games/Task/Games-Task.iml" filepath="$PROJECT_DIR$/.idea/modules/Games/Task/Games-Task.iml" group="Kotlin_for_Java_Developers._Week_5/Games-Task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Games/Task/Games-Task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Games/Task/Games-Task_main.iml" group="Kotlin_for_Java_Developers._Week_5/Games-Task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Games/Task/Games-Task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Games/Task/Games-Task_test.iml" group="Kotlin_for_Java_Developers._Week_5/Games-Task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kotlin_for_Java_Developers._Week_5.iml" filepath="$PROJECT_DIR$/.idea/modules/Kotlin_for_Java_Developers._Week_5.iml" group="Kotlin_for_Java_Developers._Week_5" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Kotlin_for_Java_Developers._Week_5/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Kotlin_for_Java_Developers._Week_5/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Kotlin_for_Java_Developers._Week_5/util" />
+    </modules>
+  </component>
+</project>

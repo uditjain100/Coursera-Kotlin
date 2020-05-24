@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jesusgsdev.board.TestSquareBoard" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-04-17T17:59:43" hostname="LAPTOP-5NVPTGG4" time="0.026">
+  <properties/>
+  <testcase name="testAllCells" classname="jesusgsdev.board.TestSquareBoard" time="0.011"/>
+  <testcase name="testRow" classname="jesusgsdev.board.TestSquareBoard" time="0.0"/>
+  <testcase name="testRowWrongRange" classname="jesusgsdev.board.TestSquareBoard" time="0.001"/>
+  <testcase name="testCell" classname="jesusgsdev.board.TestSquareBoard" time="0.0"/>
+  <testcase name="testRowReversed" classname="jesusgsdev.board.TestSquareBoard" time="0.007"/>
+  <testcase name="testNeighbour" classname="jesusgsdev.board.TestSquareBoard" time="0.003"/>
+  <testcase name="testNoCell" classname="jesusgsdev.board.TestSquareBoard" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
