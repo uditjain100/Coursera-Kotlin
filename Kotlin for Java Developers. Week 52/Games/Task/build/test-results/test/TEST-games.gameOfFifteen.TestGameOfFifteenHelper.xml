@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="games.gameOfFifteen.TestGameOfFifteenHelper" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-04-27T11:25:33" hostname="LAPTOP-5NVPTGG4" time="0.004">
+  <properties/>
+  <testcase name="testExample0" classname="games.gameOfFifteen.TestGameOfFifteenHelper" time="0.002"/>
+  <testcase name="testExample1" classname="games.gameOfFifteen.TestGameOfFifteenHelper" time="0.0"/>
+  <testcase name="testExample2" classname="games.gameOfFifteen.TestGameOfFifteenHelper" time="0.0"/>
+  <testcase name="testExample3" classname="games.gameOfFifteen.TestGameOfFifteenHelper" time="0.0"/>
+  <testcase name="testExample5" classname="games.gameOfFifteen.TestGameOfFifteenHelper" time="0.0"/>
+  <testcase name="testExample6" classname="games.gameOfFifteen.TestGameOfFifteenHelper" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

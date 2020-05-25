@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="games.board.TestSquareBoard" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-04-27T11:25:33" hostname="LAPTOP-5NVPTGG4" time="0.038">
+  <properties/>
+  <testcase name="testAllCells" classname="games.board.TestSquareBoard" time="0.03"/>
+  <testcase name="testRow" classname="games.board.TestSquareBoard" time="0.0"/>
+  <testcase name="testRowWrongRange" classname="games.board.TestSquareBoard" time="0.0"/>
+  <testcase name="testCell" classname="games.board.TestSquareBoard" time="0.0"/>
+  <testcase name="testRowReversed" classname="games.board.TestSquareBoard" time="0.004"/>
+  <testcase name="testNeighbour" classname="games.board.TestSquareBoard" time="0.003"/>
+  <testcase name="testNoCell" classname="games.board.TestSquareBoard" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
